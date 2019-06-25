@@ -1,0 +1,16 @@
+body {
+    font-family: 'Short Stack', cursive;
+}
+
+h1 {
+    font-family: 'Caveat', cursive;
+    text-align: center
+}
+
+.buttons {
+    text-align: center;
+}
+
+.button {
+    display: inline;
+}

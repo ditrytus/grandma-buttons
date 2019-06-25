@@ -1,5 +1,5 @@
 ---
-title: O Guzikach
+title: Historia
 layout: default
 ---
 # {{ page.title }}
