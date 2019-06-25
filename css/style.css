@@ -1,8 +1,30 @@
 body {
     font-family: 'Short Stack', cursive;
+    padding: 20px;
 }
 
-h1 {
+body a {
+    color: brown;
+    text-decoration: none;
+}
+
+nav ul {
+    font-size: 25px;
+    padding: 0px;
+    list-style: none;
+}
+
+nav li {
+    margin: 20px;
+    display: inline;
+}
+
+nav {
+    text-align: center;
+}
+
+h1.siteTitle {
+    font-size: 50px;
     font-family: 'Caveat', cursive;
     text-align: center
 }

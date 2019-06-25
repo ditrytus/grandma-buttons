@@ -2,6 +2,7 @@
 title: Historia
 layout: default
 ---
-# {{ page.title }}
+
+# Historia
 
 O stronie
