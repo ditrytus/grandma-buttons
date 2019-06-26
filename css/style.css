@@ -1,5 +1,6 @@
 body {
     font-family: 'Short Stack', cursive;
+    padding: 3% 5%;
 }
 
 body a {
@@ -36,9 +37,32 @@ h1.siteTitle {
     display: inline;
 }
 
-.photo {
-    float: left;
-    padding: 0px 20px 20px 0px;
-    width: 50%;
-    height: 50%;
+@media (min-width: 600px) {
+    .photo {
+        float: left;
+        padding: 0px 20px 20px 0px;
+        width: 50%;
+    }
+}
+
+@media (max-width: 600px) {
+    .photo {
+        margin: auto;
+        display: block;
+        padding: 20px;
+        width: 75%;
+    }
+}
+
+footer {
+    margin-top: 20px;
+    padding-top: 20px;
+    text-align: right;
+    color: darkgrey;
+    font-size: x-small;
+    border-top: 1px solid gray;
+}
+
+footer p {
+    margin: 5px;
 }
