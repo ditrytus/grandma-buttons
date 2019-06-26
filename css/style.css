@@ -1,6 +1,5 @@
 body {
     font-family: 'Short Stack', cursive;
-    padding: 20px;
 }
 
 body a {
@@ -35,4 +34,11 @@ h1.siteTitle {
 
 .button {
     display: inline;
+}
+
+.photo {
+    float: left;
+    padding: 0px 20px 20px 0px;
+    width: 50%;
+    height: 50%;
 }
