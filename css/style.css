@@ -40,24 +40,15 @@ h1.siteTitle {
 .button img {
     width: 100px;
     height: 100px;
+}Ū
+
+.photo {
+    margin: auto;
+    display: block;
+    padding: 20px;
+    width: 75%;
 }
 
-@media (min-width: 600px) {
-    .photo {
-        float: left;
-        padding: 0px 20px 20px 0px;
-        width: 50%;
-    }
-}
-
-@media (max-width: 600px) {
-    .photo {
-        margin: auto;
-        display: block;
-        padding: 20px;
-        width: 75%;
-    }
-}
 
 footer {
     margin-top: 20px;
