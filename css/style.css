@@ -40,13 +40,12 @@ h1.siteTitle {
 .button img {
     width: 100px;
     height: 100px;
-}Ū
+}
 
 .photo {
     margin: auto;
     display: block;
-    padding: 20px;
-    width: 75%;
+    width: 100%;
 }
 
 
